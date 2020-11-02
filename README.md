@@ -11,3 +11,7 @@ Each sentence is spoken once by a native Japanese speaker  and recorded in the d
 - PHONELABEL/ (Phoneme labels)
 - WORDLABEL/ (Word labels)
 - utterance_list.txt (List of file names and sentences)
+
+## License
++ MIT
+  + see LICENSE
